@@ -1,4 +1,4 @@
-# Vimperator option asets
+# Vimperator option assets
 
 this is a private settings for myself
 
